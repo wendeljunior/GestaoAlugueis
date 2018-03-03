@@ -1,0 +1,10 @@
+D:\UFRN\Prog+BD\SonhoMeu\GestaoAlugueis\bin\Debug\netcoreapp2.0\SonhoMeu.deps.json
+D:\UFRN\Prog+BD\SonhoMeu\GestaoAlugueis\bin\Debug\netcoreapp2.0\SonhoMeu.runtimeconfig.json
+D:\UFRN\Prog+BD\SonhoMeu\GestaoAlugueis\bin\Debug\netcoreapp2.0\SonhoMeu.runtimeconfig.dev.json
+D:\UFRN\Prog+BD\SonhoMeu\GestaoAlugueis\bin\Debug\netcoreapp2.0\SonhoMeu.dll
+D:\UFRN\Prog+BD\SonhoMeu\GestaoAlugueis\bin\Debug\netcoreapp2.0\SonhoMeu.pdb
+D:\UFRN\Prog+BD\SonhoMeu\GestaoAlugueis\obj\Debug\netcoreapp2.0\SonhoMeu.csproj.CoreCompileInputs.cache
+D:\UFRN\Prog+BD\SonhoMeu\GestaoAlugueis\obj\Debug\netcoreapp2.0\SonhoMeu.AssemblyInfoInputs.cache
+D:\UFRN\Prog+BD\SonhoMeu\GestaoAlugueis\obj\Debug\netcoreapp2.0\SonhoMeu.AssemblyInfo.cs
+D:\UFRN\Prog+BD\SonhoMeu\GestaoAlugueis\obj\Debug\netcoreapp2.0\SonhoMeu.dll
+D:\UFRN\Prog+BD\SonhoMeu\GestaoAlugueis\obj\Debug\netcoreapp2.0\SonhoMeu.pdb
