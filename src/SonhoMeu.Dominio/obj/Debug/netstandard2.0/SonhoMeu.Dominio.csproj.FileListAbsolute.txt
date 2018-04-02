@@ -1,0 +1,8 @@
+D:\Documentos\UFRN\ProgBD\GestaoAlugueis\src\SonhoMeu.Dominio\bin\Debug\netstandard2.0\SonhoMeu.Dominio.deps.json
+D:\Documentos\UFRN\ProgBD\GestaoAlugueis\src\SonhoMeu.Dominio\bin\Debug\netstandard2.0\SonhoMeu.Dominio.dll
+D:\Documentos\UFRN\ProgBD\GestaoAlugueis\src\SonhoMeu.Dominio\bin\Debug\netstandard2.0\SonhoMeu.Dominio.pdb
+D:\Documentos\UFRN\ProgBD\GestaoAlugueis\src\SonhoMeu.Dominio\obj\Debug\netstandard2.0\SonhoMeu.Dominio.csproj.CoreCompileInputs.cache
+D:\Documentos\UFRN\ProgBD\GestaoAlugueis\src\SonhoMeu.Dominio\obj\Debug\netstandard2.0\SonhoMeu.Dominio.AssemblyInfoInputs.cache
+D:\Documentos\UFRN\ProgBD\GestaoAlugueis\src\SonhoMeu.Dominio\obj\Debug\netstandard2.0\SonhoMeu.Dominio.AssemblyInfo.cs
+D:\Documentos\UFRN\ProgBD\GestaoAlugueis\src\SonhoMeu.Dominio\obj\Debug\netstandard2.0\SonhoMeu.Dominio.dll
+D:\Documentos\UFRN\ProgBD\GestaoAlugueis\src\SonhoMeu.Dominio\obj\Debug\netstandard2.0\SonhoMeu.Dominio.pdb
